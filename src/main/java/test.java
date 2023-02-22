@@ -15,7 +15,7 @@ public class test {
     }
     public static void main(String[]args){
         test t=new test();
-        t.add("a");
+        t.add("B");
         t.add(123);
         System.out.println(t.get(0));
         System.out.println(t.get(1));

@@ -33,7 +33,7 @@ public class Practice2 {
 
             for(int i = OFFSET; i<OFFSET+LENGTH;i++){
                 int age = new Random().nextInt();
-                intmapImpl.put(i, age);
+                intmapImpl.put(i-OFFSET, age);
                 arrayImpl[i-OFFSET]=age;
                 arraylistImpl.add(i-OFFSET,age);
                 linkedlistImpl.add(i-OFFSET,age);
@@ -48,21 +48,21 @@ public class Practice2 {
     @Benchmark
     @OutputTimeUnit(TimeUnit.NANOSECONDS)
     public static int testintmap(Practice2.MyState state){
-        return state.intmapImpl.get(state.index);
+        return state.intmapImpl.get(state.index- state.OFFSET);
     }
 
     @Benchmark
     @OutputTimeUnit(TimeUnit.NANOSECONDS)
     public static int testarraylist(Practice2.MyState state){
         // TODO return the age by state.index
-        return state.arraylistImpl.get(state.index);
+        return state.arraylistImpl.get(state.index- state.OFFSET);
     }
 
     @Benchmark
     @OutputTimeUnit(TimeUnit.NANOSECONDS)
     public static int testlinkedlist(Practice2.MyState state){
         // TODO return the age by state.index
-        return state.linkedlistImpl.get(state.index);
+        return state.linkedlistImpl.get(state.index- state.OFFSET);
     }
 
 
@@ -70,7 +70,7 @@ public class Practice2 {
     @OutputTimeUnit(TimeUnit.NANOSECONDS)
     public static int testarray(Practice2.MyState state){
         // TODO return the age by state.index
-        return state.arrayImpl[state.index];
+        return state.arrayImpl[state.index- state.OFFSET];
     }
 
 

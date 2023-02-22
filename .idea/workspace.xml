@@ -1,25 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="58273bae-1279-42eb-be68-b6c5aaa63e99" name="变更" comment="" />
+    <list default="true" id="58273bae-1279-42eb-be68-b6c5aaa63e99" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/lab3/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/lab3/Practice3Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/lab3/Practice3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/x.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/lab3/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tutorial/lab3/SortingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS209.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS209.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practice/lab2/Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practice/lab2/Practice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tutorial/lab2/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tutorial/lab2/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tutorial/lab2/EquivalenceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tutorial/lab2/EquivalenceExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/Comparable.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/test.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2M2bW6T4r0E85QYwoyB3QPKx90i" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/1/Desktop/CS208",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CS209\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.x">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.lab3.B" />
+      <module name="CS209" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice3Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.lab3.Practice3Answer" />
+      <module name="CS209" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="x" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.x" />
+      <module name="CS209" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS209" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.lab3" />
+      <option name="MAIN_CLASS_NAME" value="practice.lab3.Practice3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice3Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS209" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practice.lab3" />
+      <option name="MAIN_CLASS_NAME" value="practice.lab3.Practice3Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Practice3Test" />
+      <item itemvalue="JUnit.Practice3Test.test" />
+      <item itemvalue="应用程序.B" />
+      <item itemvalue="应用程序.x" />
+      <item itemvalue="应用程序.Practice3Answer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.x" />
+        <item itemvalue="JUnit.Practice3Test.test" />
+        <item itemvalue="应用程序.B" />
+        <item itemvalue="应用程序.Practice3Answer" />
+        <item itemvalue="JUnit.Practice3Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -28,7 +173,75 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676968655301</updated>
+      <workItem from="1676968656518" duration="3702000" />
+      <workItem from="1676976675378" duration="351000" />
+      <workItem from="1677032677004" duration="4847000" />
+      <workItem from="1677037777266" duration="908000" />
+      <workItem from="1677038737900" duration="4805000" />
+      <workItem from="1677121806597" duration="16000" />
+      <workItem from="1677573671542" duration="3799000" />
+      <workItem from="1677639203852" duration="7281000" />
+      <workItem from="1677662227483" duration="66000" />
+      <workItem from="1678184037625" duration="2010000" />
+      <workItem from="1678200346907" duration="19000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/maven" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/test.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tutorial/lab2/EquivalenceExample.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/tutorial/lab3/SortingDemo.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/practice/x.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="employeeList" />
+        <watch expression="e1.id" />
+        <watch expression="e2.name" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
